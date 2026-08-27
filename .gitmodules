@@ -1,0 +1,24 @@
+[submodule "agentic_ai/rag_learning"]
+	path = agentic_ai/rag_learning
+	url = https://github.com/devlprkhan/rag_learning.git
+	branch = main
+[submodule "agentic_ai/langgraph_learning"]
+	path = agentic_ai/langgraph_learning
+	url = https://github.com/devlprkhan/langgrpah_learning.git
+	branch = main
+[submodule "ml_learning"]
+	path = ml_learning
+	url = git@github.com:devlprkhan/ml_learning.git
+	branch = main
+[submodule "dl_learning"]
+	path = dl_learning
+	url = https://github.com/devlprkhan/dl_learning.git
+	branch = main
+[submodule "agentic_ai/langchain_learning"]
+	path = agentic_ai/langchain_learning
+	url = git@github.com:devlprkhan/langchain_learning.git
+	branch = main
+[submodule "projects/finance_tracker"]
+	path = projects/finance_tracker
+	url = git@github.com:devlprkhan/finance_tracker.git
+	branch = main
