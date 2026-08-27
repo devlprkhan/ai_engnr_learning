@@ -22,3 +22,9 @@
 	path = projects/finance_tracker
 	url = git@github.com:devlprkhan/finance_tracker.git
 	branch = main
+[submodule "projects/titanic-survival-pred"]
+	path = projects/titanic-survival-pred
+	url = https://github.com/devlprkhan/titanic-survival-ml.git
+[submodule "projects/house-prices-ml"]
+	path = projects/house-prices-ml
+	url = https://github.com/devlprkhan/house-prices-ml.git
